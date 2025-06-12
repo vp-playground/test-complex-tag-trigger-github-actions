@@ -3,7 +3,7 @@ name: Tag match
 on:
   push:
     tags:
-      - "@aaa/bbb-ccc@*.*.*"
+      - "@chatbotgang/web-sdk-core@*.*.*"
 
 jobs:
   deploy:
